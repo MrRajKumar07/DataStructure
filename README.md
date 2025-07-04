@@ -1,3 +1,3 @@
 # DataStructure
-Arrays
-Linked List
+# Arrays
+# Linked List
