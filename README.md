@@ -1,1 +1,3 @@
 # DataStructure
+Arrays
+Linked List
