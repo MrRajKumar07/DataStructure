@@ -1,5 +1,6 @@
 # DataStructure
 # Arrays
+# String
 # Linked List
 # Stack
 # Queue
@@ -7,5 +8,6 @@
 # Graph
 # Map
 # Set
+# Backtracking
 # Dynamic Programming
 # Bit Manipulation
