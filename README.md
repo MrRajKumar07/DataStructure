@@ -14,3 +14,5 @@
 # Recursion
 # Hashing 
 # DLL,SLL,CLL
+# Greedy Algorithm 
+# Trie
