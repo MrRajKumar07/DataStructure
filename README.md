@@ -4,6 +4,7 @@
 # Linked List
 # Stack
 # Queue
+# Sorting
 # Tree
 # Graph
 # Map
