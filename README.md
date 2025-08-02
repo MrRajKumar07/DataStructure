@@ -19,6 +19,6 @@
 # Trie
 # collection 
 # Stream API
-# Lembda
+# Lembda Expression
 # new expression 
 # Data Mining 
