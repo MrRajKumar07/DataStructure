@@ -1,4 +1,4 @@
-# DataStructure
+# DataStructure and Algorithms 
 # Arrays
 # String
 # Linked List
