@@ -36,6 +36,11 @@ public class Methods {
         System.out.println(a+b+c);
     }
 
+    //Change Value
+    static void change(int []num){
+         num[0]=99;
+    }
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
@@ -59,5 +64,9 @@ public class Methods {
         varArgs(20,10,66,54,32,98,30);
 
         VarArgs(10,20,30,"CSE","EEE","ME","ECE");
+
+        int [] arr={20,40,30,40,60};
+        change(arr);
+        System.out.println("New Array: "+Arrays.toString(arr));
     }
 }
